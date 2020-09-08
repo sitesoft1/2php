@@ -1,5 +1,5 @@
-<?php
-echo 'Hellow World :)';
-echo 'Wake up neo!';
-echo 'Matrix has you!!!';
-echo 'Немає ніякої ложки...';
+﻿<?php
+echo 'Hellow World :)<br>';
+echo 'Wake up neo!<br>';
+echo 'Matrix has you!!!<br>';
+echo 'Немає ніякої ложки...<br>';
